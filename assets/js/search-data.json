@@ -2,147 +2,147 @@
     "doc": "About GF_Group 21",
     "title": "About Us",
     "content": "We are GF_Group 21 . ",
-    "url": "/about.html#about-us",
+    "url": "/mark213/about.html#about-us",
     
     "relUrl": "/about.html#about-us"
   },"1": {
     "doc": "About GF_Group 21",
     "title": "Members",
     "content": ". | Atharva Nitin Khole | Ze Min Chung | Haoran Gao | Yu Yang Ong | Yining Zhang | . ",
-    "url": "/about.html#members",
+    "url": "/mark213/about.html#members",
     
     "relUrl": "/about.html#members"
   },"2": {
     "doc": "About GF_Group 21",
     "title": "About GF_Group 21",
     "content": " ",
-    "url": "/about.html",
+    "url": "/mark213/about.html",
     
     "relUrl": "/about.html"
   },"3": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "This is a demo for what the content will look like on this site. ",
-    "url": "/",
+    "url": "/mark213/",
     
     "relUrl": "/"
   },"4": {
     "doc": "Introduction",
     "title": "h1 Heading",
     "content": " ",
-    "url": "/#h1-heading",
+    "url": "/mark213/#h1-heading",
     
     "relUrl": "/#h1-heading"
   },"5": {
     "doc": "Introduction",
     "title": "h2 Heading",
     "content": "h3 Heading . h4 Heading . h5 Heading . h6 Heading . ",
-    "url": "/#h2-heading",
+    "url": "/mark213/#h2-heading",
     
     "relUrl": "/#h2-heading"
   },"6": {
     "doc": "Introduction",
     "title": "Horizontal Rules",
     "content": ". ",
-    "url": "/#horizontal-rules",
+    "url": "/mark213/#horizontal-rules",
     
     "relUrl": "/#horizontal-rules"
   },"7": {
     "doc": "Introduction",
     "title": "Emphasis",
     "content": "This is bold text . This is bold text . This is italic text . This is italic text . Strikethrough . ",
-    "url": "/#emphasis",
+    "url": "/mark213/#emphasis",
     
     "relUrl": "/#emphasis"
   },"8": {
     "doc": "Introduction",
     "title": "Blockquotes",
     "content": "Blockquotes can also be nested… . …by using additional greater-than signs right next to each other… . …or with spaces between arrows. ",
-    "url": "/#blockquotes",
+    "url": "/mark213/#blockquotes",
     
     "relUrl": "/#blockquotes"
   },"9": {
     "doc": "Introduction",
     "title": "Lists",
     "content": "Unordered . | Create a list by starting a line with +, -, or * | Sub-lists are made by indenting 2 spaces: . | Marker character change forces new list start: . | Ac tristique libero volutpat at | Facilisis in pretium nisl aliquet | Nulla volutpat aliquam velit | . | . | Very easy! | . Ordered . | Lorem ipsum dolor sit amet | Consectetur adipiscing elit | Integer molestie lorem at massa . | You can use sequential numbers… | …or keep all the numbers as 1. | . Start numbering with offset: . | foo | bar | . ",
-    "url": "/#lists",
+    "url": "/mark213/#lists",
     
     "relUrl": "/#lists"
   },"10": {
     "doc": "Introduction",
     "title": "Code",
     "content": "Inline code . Indented code . // Some comments line 1 of code line 2 of code line 3 of code . Block code “fences” . Sample text here... Syntax highlighting . var foo = function (bar) { return bar++; }; console.log(foo(5)); . ",
-    "url": "/#code",
+    "url": "/mark213/#code",
     
     "relUrl": "/#code"
   },"11": {
     "doc": "Introduction",
     "title": "Tables",
     "content": "| Option | Description | . | data | path to data files to supply the data that will be passed into templates. | . | engine | engine to be used for processing templates. Handlebars is the default. | . | ext | extension to be used for dest files. | . Right aligned columns . | Option | Description | . | data | path to data files to supply the data that will be passed into templates. | . | engine | engine to be used for processing templates. Handlebars is the default. | . | ext | extension to be used for dest files. | . ",
-    "url": "/#tables",
+    "url": "/mark213/#tables",
     
     "relUrl": "/#tables"
   },"12": {
     "doc": "Introduction",
     "title": "Links",
     "content": "link text . link with title . Autoconverted link https://github.com/nodeca/pica (enable linkify to see) . ",
-    "url": "/#links",
+    "url": "/mark213/#links",
     
     "relUrl": "/#links"
   },"13": {
     "doc": "Introduction",
     "title": "Images",
     "content": ". Like links, Images also have a footnote style syntax . With a reference later in the document defining the URL location: . Footnotes . Footnote 1 link1. Footnote 2 link2. Duplicated footnote reference2. Definition lists . Term 1 Definition 1 with lazy continuation. Term 2 with inline markup Definition 2 . { some code, part of Definition 2 } . Third paragraph of definition 2. Compact style: . Term 1 ~ Definition 1 . Term 2 ~ Definition 2a ~ Definition 2b . Abbreviations . This is HTML abbreviation example. It converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on. Custom containers . A paragraph . A paragraph . A highlighted paragraph . | Footnote can have markup . and multiple paragraphs. &#8617; . | Footnote text. &#8617; &#8617;2 . | . ",
-    "url": "/#images",
+    "url": "/mark213/#images",
     
     "relUrl": "/#images"
   },"14": {
     "doc": "Market Environment",
     "title": "Market Environment",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | First item | Second item | Third item | . | Syntax | Description | . | Header | Title | . | Paragraph | Text | . ",
-    "url": "/market-environment.html",
+    "url": "/mark213/market-environment.html",
     
     "relUrl": "/market-environment.html"
   },"15": {
     "doc": "Marketing Mix",
     "title": "Marketing Mix",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. This is the second chapter. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
-    "url": "/marketing-mix.html",
+    "url": "/mark213/marketing-mix.html",
     
     "relUrl": "/marketing-mix.html"
   },"16": {
     "doc": "Marketing Mix",
     "title": "Another sub chapter",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
-    "url": "/marketing-mix.html#another-sub-chapter",
+    "url": "/mark213/marketing-mix.html#another-sub-chapter",
     
     "relUrl": "/marketing-mix.html#another-sub-chapter"
   },"17": {
     "doc": "Recommendations",
     "title": "Recommendations",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. This is the second chapter. ",
-    "url": "/recommendations.html",
+    "url": "/mark213/recommendations.html",
     
     "relUrl": "/recommendations.html"
   },"18": {
     "doc": "Recommendations",
     "title": "Another sub chapter",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
-    "url": "/recommendations.html#another-sub-chapter",
+    "url": "/mark213/recommendations.html#another-sub-chapter",
     
     "relUrl": "/recommendations.html#another-sub-chapter"
   },"19": {
     "doc": "Sustainability and Ethics Considerations",
     "title": "Sustainability and Ethics Considerations",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. This is the second chapter. Footnote 1 link1. Footnote 2 link2. Duplicated footnote reference2. ",
-    "url": "/sustainability-and-ethics-consideration.html",
+    "url": "/mark213/sustainability-and-ethics-consideration.html",
     
     "relUrl": "/sustainability-and-ethics-consideration.html"
   },"20": {
     "doc": "Sustainability and Ethics Considerations",
     "title": "Another sub chapter",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | Footnote can have markup . and multiple paragraphs. &#8617; . | Footnote text. &#8617; &#8617;2 . | . ",
-    "url": "/sustainability-and-ethics-consideration.html#another-sub-chapter",
+    "url": "/mark213/sustainability-and-ethics-consideration.html#another-sub-chapter",
     
     "relUrl": "/sustainability-and-ethics-consideration.html#another-sub-chapter"
   }
