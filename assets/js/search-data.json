@@ -22,128 +22,100 @@
   },"3": {
     "doc": "Introduction",
     "title": "Introduction",
-    "content": "This is a demo for what the content will look like on this site. ",
+    "content": "The oral care industry has seen a great increase in sales and revenue in recent years, owing to the increasing awareness among consumers. Consumers in developing countries have started adopting better oral health practices, contributing further to the oral care market. This market research project is a study of the interdental cleaning market. Specifically, the research focuses on Oral-B, a pioneer and leader within the industry. The project looks into Oral-B’s range of Interdental Brushes, specifically tailored for the Singapore market. ",
     "url": "/mark213/",
     
     "relUrl": "/"
   },"4": {
     "doc": "Introduction",
-    "title": "h1 Heading",
-    "content": " ",
-    "url": "/mark213/#h1-heading",
+    "title": "The Oral Care Market",
+    "content": "The world oral care market in 2020 was valued at $53 billion USD, and is estimated to reach $96 billion by the year 2031. The Asia Pacific region is estimated to have the largest potential growth in the coming years where countries in the low-income bracket are shifting to the mid-income bracket and those in the mid-income bracket climbing into the high-income bracket.1 . The Asia Pacific region dominated the market in 2021 with a revenue share of over 40.0%.2 . As of 2020, tootbrushes account for $35,184.3 million in sales globally. ",
+    "url": "/mark213/#the-oral-care-market",
     
-    "relUrl": "/#h1-heading"
+    "relUrl": "/#the-oral-care-market"
   },"5": {
     "doc": "Introduction",
-    "title": "h2 Heading",
-    "content": "h3 Heading . h4 Heading . h5 Heading . h6 Heading . ",
-    "url": "/mark213/#h2-heading",
+    "title": "Interdental Brushes",
+    "content": "When it comes to oral care, preventive measures play a key role in maintaining good dental health. This is where interdental brushes have emerged as a key player in order to prevent gum disease and tooth decay. The importance of interdental cleaning cannot be overstated. It serves as a crucial element in removing debris and plaque from the hard-to-reach spaces between teeth, mitigating the risk of oral health problems. ",
+    "url": "/mark213/#interdental-brushes",
     
-    "relUrl": "/#h2-heading"
+    "relUrl": "/#interdental-brushes"
   },"6": {
     "doc": "Introduction",
-    "title": "Horizontal Rules",
-    "content": ". ",
-    "url": "/mark213/#horizontal-rules",
+    "title": "Oral-B",
+    "content": "At the forefront of this dental revolution is Oral-B. Founded in 1950 in California USA, Oral-B has been the industry pioneer for toothbrush technology, electric toothbrushes and other oral hygiene products. Oral-B holds 9.7% of Brand market share worldwide as of 2022, which is the 2nd largest share after Colgate (14.9%)3. Oral-B and Crest are sister brands under the same corporate umbrella Procter &amp; Gamble Co, and together they occupy 17.3% of the market share. Based on this we can infer that Oral-B is one of the largest players in the market worldwide. Oral-B also holds 17.7% of the market share in Singapore, making it the largest brand in Singapore.4 . When it comes to Oral-Care Appliances, Oral-B occupies a whopping 43.9% market share in Singapore, leading all competitors by a serious margin5. In the pages that follow, we will explore the intricate details of the market environment surrounding Oral-B, the innovations that have shaped its product portfolio, and the unique characteristics of interdental brushes that cater to the diverse needs of the Singaporean market. Footnotes . | https://www.dentistryiq.com/practice-management/industry/article/14202103/the-oral-care-market-recent-shifts-and-future-prospects &#8617; . | https://www.grandviewresearch.com/industry-analysis/oral-care-market &#8617; . | Euromonitor International. (2023, July), Oral Care in World [Industry report]. Passport &#8617; . | Euromonitor International. (2023, May), Oral Care in Singapore [Country report]. Passport. &#8617; . | Euromonitor International. (2023, November), Oral Care Appliances in Singapore [Country report]. Passport. &#8617; . | . ",
+    "url": "/mark213/#oral-b",
     
-    "relUrl": "/#horizontal-rules"
+    "relUrl": "/#oral-b"
   },"7": {
-    "doc": "Introduction",
-    "title": "Emphasis",
-    "content": "This is bold text . This is bold text . This is italic text . This is italic text . Strikethrough . ",
-    "url": "/mark213/#emphasis",
-    
-    "relUrl": "/#emphasis"
-  },"8": {
-    "doc": "Introduction",
-    "title": "Blockquotes",
-    "content": "Blockquotes can also be nested… . …by using additional greater-than signs right next to each other… . …or with spaces between arrows. ",
-    "url": "/mark213/#blockquotes",
-    
-    "relUrl": "/#blockquotes"
-  },"9": {
-    "doc": "Introduction",
-    "title": "Lists",
-    "content": "Unordered . | Create a list by starting a line with +, -, or * | Sub-lists are made by indenting 2 spaces: . | Marker character change forces new list start: . | Ac tristique libero volutpat at | Facilisis in pretium nisl aliquet | Nulla volutpat aliquam velit | . | . | Very easy! | . Ordered . | Lorem ipsum dolor sit amet | Consectetur adipiscing elit | Integer molestie lorem at massa . | You can use sequential numbers… | …or keep all the numbers as 1. | . Start numbering with offset: . | foo | bar | . ",
-    "url": "/mark213/#lists",
-    
-    "relUrl": "/#lists"
-  },"10": {
-    "doc": "Introduction",
-    "title": "Code",
-    "content": "Inline code . Indented code . // Some comments line 1 of code line 2 of code line 3 of code . Block code “fences” . Sample text here... Syntax highlighting . var foo = function (bar) { return bar++; }; console.log(foo(5)); . ",
-    "url": "/mark213/#code",
-    
-    "relUrl": "/#code"
-  },"11": {
-    "doc": "Introduction",
-    "title": "Tables",
-    "content": "| Option | Description | . | data | path to data files to supply the data that will be passed into templates. | . | engine | engine to be used for processing templates. Handlebars is the default. | . | ext | extension to be used for dest files. | . Right aligned columns . | Option | Description | . | data | path to data files to supply the data that will be passed into templates. | . | engine | engine to be used for processing templates. Handlebars is the default. | . | ext | extension to be used for dest files. | . ",
-    "url": "/mark213/#tables",
-    
-    "relUrl": "/#tables"
-  },"12": {
-    "doc": "Introduction",
-    "title": "Links",
-    "content": "link text . link with title . Autoconverted link https://github.com/nodeca/pica (enable linkify to see) . ",
-    "url": "/mark213/#links",
-    
-    "relUrl": "/#links"
-  },"13": {
-    "doc": "Introduction",
-    "title": "Images",
-    "content": ". Like links, Images also have a footnote style syntax . With a reference later in the document defining the URL location: . Footnotes . Footnote 1 link1. Footnote 2 link2. Duplicated footnote reference2. Definition lists . Term 1 Definition 1 with lazy continuation. Term 2 with inline markup Definition 2 . { some code, part of Definition 2 } . Third paragraph of definition 2. Compact style: . Term 1 ~ Definition 1 . Term 2 ~ Definition 2a ~ Definition 2b . Abbreviations . This is HTML abbreviation example. It converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on. Custom containers . A paragraph . A paragraph . A highlighted paragraph . | Footnote can have markup . and multiple paragraphs. &#8617; . | Footnote text. &#8617; &#8617;2 . | . ",
-    "url": "/mark213/#images",
-    
-    "relUrl": "/#images"
-  },"14": {
     "doc": "Market Environment",
     "title": "Market Environment",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | First item | Second item | Third item | . | Syntax | Description | . | Header | Title | . | Paragraph | Text | . ",
+    "content": " ",
     "url": "/mark213/market-environment.html",
     
     "relUrl": "/market-environment.html"
-  },"15": {
+  },"8": {
     "doc": "Marketing Mix",
     "title": "Marketing Mix",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. This is the second chapter. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "content": " ",
     "url": "/mark213/marketing-mix.html",
     
     "relUrl": "/marketing-mix.html"
-  },"16": {
+  },"9": {
     "doc": "Marketing Mix",
-    "title": "Another sub chapter",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
-    "url": "/mark213/marketing-mix.html#another-sub-chapter",
+    "title": "Product",
+    "content": "Current usage: . | Oral-B’s interdental brush deep cleaning bristles helps to remove food and plaque from hard to reach places where your brushes cannot reach | . | On the market currently, there are two types of interdental brush. The normal size which is smaller than a toothbrush for convenient use. Another design comes with a brush handle with a replaceable interdental brush head that replicates the conventional toothbrush. | . Critique and improvements: . Oral-B’s interdental brush has managed to target the needs of both younger and older demographic, on the importance of dental health. However based on the reviews on their website, many are complaining about the quality of product, claiming that it damages quickly and non-reusable . ",
+    "url": "/mark213/marketing-mix.html#product",
     
-    "relUrl": "/marketing-mix.html#another-sub-chapter"
-  },"17": {
+    "relUrl": "/marketing-mix.html#product"
+  },"10": {
+    "doc": "Marketing Mix",
+    "title": "Price",
+    "content": "Current usage: . | Oral-B’s pricing is targeted towards the middle and upper-middle class. | Pack of 10 prices among competitors : Oral-B -$10.10 , Tepe $14, GUM $10.50 | Provides a competitive advantage for Oral-B with its low price. | . Critique and improvements: . | Given that Oral-B’s target audience are in the middle and upper-middle class, the low pricing strategy might impact the brand image if its intention is to convey a premium product. | . ",
+    "url": "/mark213/marketing-mix.html#price",
+    
+    "relUrl": "/marketing-mix.html#price"
+  },"11": {
+    "doc": "Marketing Mix",
+    "title": "Promotion",
+    "content": "Current usage: . | Through online ecommerce platforms, interdental brushes are sold at a discounted price to attract customers. | . Critique and improvements: . | There are not many promotions on interdental brushes, as the current trend is leaning more towards electric toothbrushes. | To improve awareness, Oral-B should set up more promotions and online awareness for their interdental brushes | . ",
+    "url": "/mark213/marketing-mix.html#promotion",
+    
+    "relUrl": "/marketing-mix.html#promotion"
+  },"12": {
+    "doc": "Marketing Mix",
+    "title": "Place",
+    "content": "Current usage: . | There are many distributors for Oral-B’s interdental brush products, such as Watsons, Guardian and NTUC | Ecommerce platforms such as Amazon, Shopee and Lazada are additional purchasing options | . Critique and improvements: . | The interdental brush is not available to be bought on their official website. | It should be recommended that the brush be able to be bought on their official website as well for online presence. | This is covered by the large number of online distributors. | . ",
+    "url": "/mark213/marketing-mix.html#place",
+    
+    "relUrl": "/marketing-mix.html#place"
+  },"13": {
+    "doc": "Marketing Mix",
+    "title": "People",
+    "content": "Current usage: . | Since Oral-B was founded by a dentist, this will capture the consumer’s trust. | . Critique and improvements: . | Oral-B has also done well when providing customer support. On their website it has multiple platforms for customer to ask questions | . ",
+    "url": "/mark213/marketing-mix.html#people",
+    
+    "relUrl": "/marketing-mix.html#people"
+  },"14": {
+    "doc": "Marketing Mix",
+    "title": "Process",
+    "content": "Current usage: . Physical Evidence . ",
+    "url": "/mark213/marketing-mix.html#process",
+    
+    "relUrl": "/marketing-mix.html#process"
+  },"15": {
     "doc": "Recommendations",
     "title": "Recommendations",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. This is the second chapter. ",
+    "content": " ",
     "url": "/mark213/recommendations.html",
     
     "relUrl": "/recommendations.html"
-  },"18": {
-    "doc": "Recommendations",
-    "title": "Another sub chapter",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
-    "url": "/mark213/recommendations.html#another-sub-chapter",
-    
-    "relUrl": "/recommendations.html#another-sub-chapter"
-  },"19": {
+  },"16": {
     "doc": "Sustainability and Ethics Considerations",
     "title": "Sustainability and Ethics Considerations",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. This is the second chapter. Footnote 1 link1. Footnote 2 link2. Duplicated footnote reference2. ",
+    "content": " ",
     "url": "/mark213/sustainability-and-ethics-consideration.html",
     
     "relUrl": "/sustainability-and-ethics-consideration.html"
-  },"20": {
-    "doc": "Sustainability and Ethics Considerations",
-    "title": "Another sub chapter",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | Footnote can have markup . and multiple paragraphs. &#8617; . | Footnote text. &#8617; &#8617;2 . | . ",
-    "url": "/mark213/sustainability-and-ethics-consideration.html#another-sub-chapter",
-    
-    "relUrl": "/sustainability-and-ethics-consideration.html#another-sub-chapter"
   }
 }
